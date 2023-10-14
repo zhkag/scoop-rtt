@@ -9,7 +9,7 @@ scoop bucket add rtt https://github.com/zhkag/scoop-rtt.git
 How do I install these packages?
 ---------------------------------
 
-To add this bucket, run `scoop bucket add zhkag https://github.com/zhkag/scoop-rtt.git`.
+To add this bucket, run `scoop bucket add rtt https://github.com/zhkag/scoop-rtt.git`.
 
 To install, run `scoop install rtt/<package>`.
 
