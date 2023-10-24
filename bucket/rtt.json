@@ -1,10 +1,10 @@
 {
-    "version": "23.10.24.0",
+    "version": "23.10.24.1",
     "license": "Freeware",
     "description": "rtt tools",
     "homepage": "https://github.com/zhkag/rtt/tree/rust",
-    "url": "https://codeload.github.com/zhkag/rtt/zip/5c348af#/dl.7z",
-    "hash": "6f713a06430f0a86d7f2bf92c9c8e4c09cdb1f16c64fa5ea3b34298aa7de4683",
+    "url": "https://codeload.github.com/zhkag/rtt/zip/70036a5#/dl.7z",
+    "hash": "e23028fa56e4f76a4d4e4bd5c6c9f657a1a9e1f421323f63c26f08a3d08fa422",
     "depends": [
         "rust-gnu",
         "rt-env"
